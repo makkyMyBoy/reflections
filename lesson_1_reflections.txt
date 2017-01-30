@@ -1,0 +1,72 @@
+--- H:\version-control\reflections\lesson_1_reflections.txt	Tue Jan 24 11:28:59 2017
++++ H:\version-control\reflections\lesson_1_reflections.txt	Tue Jan 24 17:25:21 2017
+@@ -1,70 +0,0 @@
+-How did viewing a diff between two versions of a file help you see the bug that
+- was introduced?
+-
+- 
+-
+-
+-It helped a lot in finding the changes which if done manually would take a lot of time and may not be easy.
+-
+-
+-
+-
+-How could having easy access to the entire history of a file make you a more 
+-efficient programmer in the long term?
+-
+-  
+-
+-  
+-probably knowing all the history of changes made in a file can help in future to find which change created problem and hence can be sorted out easily. 
+-
+-
+-
+-
+-What do you think are the pros and cons of manually choosing when to create a
+-commit, like you do in Git, vs having versions automatically saved, like Google
+-docs does?
+-
+-    pro is you have control over each commits like when you think it is right to commit and have new version
+-	 con is you may not always be right to decide as when a commit should be made
+-
+-Fill in your answer here
+-
+-
+-
+-
+-Why do you think some version control systems, like Git, allow saving multiple
+-files in one commit, while others, like Google Docs, treat each file separately?
+-
+-    
+-so that in case manually a person forgets to save any file git saves all the file allowing every changes to be saved.
+-
+-
+-
+-
+-
+-
+-How can you use the commands git log and git diff to view the history of files?
+-
+-   
+-
+-
+-by using git log one can see all the previous commits and using git diff we can compare two commits based on commit ids.
+-
+-
+-
+-
+-How might using version control make you more confident to make changes that
+-could break something?
+-
+-   
+- 
+-
+-Fill in your answer here
+-
+-
+-
+-
+-Now that you have your workspace set up, what do you want to try using Git for?
+-
+-    Fill in your answer here
